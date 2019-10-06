@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SichCreateDB", "SichCreateDB\SichCreateDB.csproj", "{C909285B-3911-4653-9AB2-0330A66341F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbLibrary", "DbLibrary\DbLibrary.csproj", "{8F5CC17B-0914-4D4C-86AB-43FEE3AC2040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C909285B-3911-4653-9AB2-0330A66341F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C909285B-3911-4653-9AB2-0330A66341F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C909285B-3911-4653-9AB2-0330A66341F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C909285B-3911-4653-9AB2-0330A66341F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5CC17B-0914-4D4C-86AB-43FEE3AC2040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5CC17B-0914-4D4C-86AB-43FEE3AC2040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5CC17B-0914-4D4C-86AB-43FEE3AC2040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5CC17B-0914-4D4C-86AB-43FEE3AC2040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA67D20-5DAB-4890-BA01-F261D904C696}
+	EndGlobalSection
+EndGlobal

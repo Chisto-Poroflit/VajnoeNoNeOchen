@@ -1,0 +1,29 @@
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.deps.json
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.runtimeconfig.json
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.runtimeconfig.dev.json
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.dll
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csprojAssemblyReference.cache
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CoreCompileInputs.cache
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.AssemblyInfoInputs.cache
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.AssemblyInfo.cs
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.pdb
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.dll
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.pdb
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbBL.dll
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbBL.pdb
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbBL.dll.config
+G:\VS Projects\repos\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CopyComplete
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.deps.json
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.runtimeconfig.json
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.runtimeconfig.dev.json
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.dll
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.pdb
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbLibrary.dll
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbLibrary.pdb
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csprojAssemblyReference.cache
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CoreCompileInputs.cache
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.AssemblyInfoInputs.cache
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.AssemblyInfo.cs
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CopyComplete
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.dll
+G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.pdb
