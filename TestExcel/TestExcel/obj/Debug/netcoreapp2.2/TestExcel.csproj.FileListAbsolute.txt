@@ -1,0 +1,11 @@
+G:\VS Projects\repos\TestExcel\TestExcel\bin\Debug\netcoreapp2.2\TestExcel.deps.json
+G:\VS Projects\repos\TestExcel\TestExcel\bin\Debug\netcoreapp2.2\TestExcel.runtimeconfig.json
+G:\VS Projects\repos\TestExcel\TestExcel\bin\Debug\netcoreapp2.2\TestExcel.runtimeconfig.dev.json
+G:\VS Projects\repos\TestExcel\TestExcel\bin\Debug\netcoreapp2.2\TestExcel.dll
+G:\VS Projects\repos\TestExcel\TestExcel\obj\Debug\netcoreapp2.2\TestExcel.csprojAssemblyReference.cache
+G:\VS Projects\repos\TestExcel\TestExcel\obj\Debug\netcoreapp2.2\TestExcel.csproj.CoreCompileInputs.cache
+G:\VS Projects\repos\TestExcel\TestExcel\obj\Debug\netcoreapp2.2\TestExcel.AssemblyInfoInputs.cache
+G:\VS Projects\repos\TestExcel\TestExcel\obj\Debug\netcoreapp2.2\TestExcel.AssemblyInfo.cs
+G:\VS Projects\repos\TestExcel\TestExcel\bin\Debug\netcoreapp2.2\TestExcel.pdb
+G:\VS Projects\repos\TestExcel\TestExcel\obj\Debug\netcoreapp2.2\TestExcel.dll
+G:\VS Projects\repos\TestExcel\TestExcel\obj\Debug\netcoreapp2.2\TestExcel.pdb
