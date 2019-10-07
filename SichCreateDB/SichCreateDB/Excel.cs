@@ -12,6 +12,7 @@ namespace SichCreateDB
         ExcelPackage excel = new ExcelPackage();
         ExcelWorkbook wb;
         ExcelWorksheet ws;
+        string _path;
         public Excel()
         {
             wb = excel.Workbook;
@@ -22,20 +23,34 @@ namespace SichCreateDB
                 else
                     wb.Worksheets.Add($"Маг Курс {i - 4}");
             }
-            ws = wb.Worksheets[1];         
+            ws = wb.Worksheets[1];
+            _path = Directory.GetCurrentDirectory() + "/Test.xlsx";
         }
 
-        public void CreateStartExcel(string path)
+        public Excel(string path)
+        {
+            wb = excel.Workbook;
+            for (int i = 1; i <= 6; i++)
+            {
+                if (i < 5)
+                    wb.Worksheets.Add($"Курс {i}");
+                else
+                    wb.Worksheets.Add($"Маг Курс {i - 4}");
+            }
+            ws = wb.Worksheets[1];
+            _path = path;
+        }
+
+        public void CreateStartExcel(List<int> countGroups)
         {
             string[] days = new string[] { "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота" };
             string[] time = new string[] { "8:00-9:35", "9:45-11:20", "11:30-13:05", "13:25-15:00", "15:10-16:45", "16:55-18:30", "18:40-20:00" };
 
-            for (int w = 1; w <= 6; w++)
+            for (int w = 0; w < countGroups.Count; w++)
             {
                 ws = wb.Worksheets[w];
                 int q = 0;
-
-                for (int i = 1; i < 6; i++)
+                for (int i = 1; i <= countGroups[w]; i++)
                 {
                     using (ExcelRange rng = ws.Cells[1, i * 2 + 1, 1, i * 2 + 2])
                     {
@@ -116,6 +131,7 @@ namespace SichCreateDB
                     q++;
                 }
             }
+            excel.SaveAs(new FileInfo(_path));
         }
     }
 }

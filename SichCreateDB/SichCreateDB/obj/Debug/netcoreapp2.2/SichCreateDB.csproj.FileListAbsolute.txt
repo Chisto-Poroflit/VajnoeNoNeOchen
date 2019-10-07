@@ -27,3 +27,17 @@ G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\Sich
 G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CopyComplete
 G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.dll
 G:\GitHub\VSU-Schedule-DB\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.pdb
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.deps.json
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.runtimeconfig.json
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.runtimeconfig.dev.json
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.dll
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\SichCreateDB.pdb
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbLibrary.dll
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\bin\Debug\netcoreapp2.2\DbLibrary.pdb
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csprojAssemblyReference.cache
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CoreCompileInputs.cache
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.AssemblyInfoInputs.cache
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.AssemblyInfo.cs
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.csproj.CopyComplete
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.dll
+G:\GitHub\VajnoeNoNeOchen\SichCreateDB\SichCreateDB\obj\Debug\netcoreapp2.2\SichCreateDB.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub\\VSU-Schedule-DB\\SichCreateDB\\DbLibrary\\DbLibrary.csproj": {}
+    "G:\\GitHub\\VajnoeNoNeOchen\\SichCreateDB\\DbLibrary\\DbLibrary.csproj": {}
   },
   "projects": {
-    "G:\\GitHub\\VSU-Schedule-DB\\SichCreateDB\\DbLibrary\\DbLibrary.csproj": {
+    "G:\\GitHub\\VajnoeNoNeOchen\\SichCreateDB\\DbLibrary\\DbLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub\\VSU-Schedule-DB\\SichCreateDB\\DbLibrary\\DbLibrary.csproj",
+        "projectUniqueName": "G:\\GitHub\\VajnoeNoNeOchen\\SichCreateDB\\DbLibrary\\DbLibrary.csproj",
         "projectName": "DbLibrary",
-        "projectPath": "G:\\GitHub\\VSU-Schedule-DB\\SichCreateDB\\DbLibrary\\DbLibrary.csproj",
+        "projectPath": "G:\\GitHub\\VajnoeNoNeOchen\\SichCreateDB\\DbLibrary\\DbLibrary.csproj",
         "packagesPath": "C:\\Users\\Gennadiy\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub\\VSU-Schedule-DB\\SichCreateDB\\DbLibrary\\obj\\",
+        "outputPath": "G:\\GitHub\\VajnoeNoNeOchen\\SichCreateDB\\DbLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\",
