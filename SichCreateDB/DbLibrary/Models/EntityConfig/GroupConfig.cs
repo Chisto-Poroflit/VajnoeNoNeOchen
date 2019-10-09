@@ -15,8 +15,8 @@ namespace DbLibrary.Models.EntityConfig
             builder.Property(g => g.SubgroupNumber).IsRequired();
             builder.Property(g => g.GroupNumber).IsRequired();
             builder.HasOne(g => g.Specialization)
-                .WithOne(s => s.Group)
-                .HasForeignKey<Group>(g => g.SpecializatioId);
+                .WithMany(s => s.Group)
+                .HasForeignKey(g => g.SpecializatioId);
         }
     }
 }

@@ -14,7 +14,7 @@ namespace DbLibrary.Models.Entity
 
         public Specialization ParentSpec { get; set; }
 
-        public Group Group { get; set; }
+        public List<Group> Group { get; set; }
 
         public CurriculumUnit CurriculumUnit { get; set; }
     }

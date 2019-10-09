@@ -26,9 +26,14 @@ namespace SichCreateDB
             //        int groupsCountChet = db.Groups.Count(p => p.SemesterNumber == i * 2 - 1);
             //    }
             //}
+
             Excel excel = new Excel();
-            List<int> g = DBToExcel.GroupCounter();
+            DBToExcel db = new DBToExcel(new ApplicationContext());
+            List<List<int>> g = db.GroupCounter();
+            DBToExcel bd = new DBToExcel(new ApplicationContext());
+            List<Dictionary<string,string>> c = bd.CouplesToExcel();
             excel.CreateStartExcel(g);
+            excel.AddInfo(c);
         }
     }
 }
